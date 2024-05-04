@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/AR.unity
+    guid: a5bc7cc8344da7649830c8aa1b803a16
+  - enabled: 1
     path: Assets/Location-basedGame.unity
     guid: 42f6aa7ce7a604f16ade319663f46ceb
-  m_configObjects: {}
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e771d2002a4b51345b6b8bc097000d2d, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 90621cc98bcf75546b89978583064eaf, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2800e4c3feceb1c41a0c1fd9eb30e001, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 21abbd24c6c897a48a79393861267b8d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d2804954979c9594b885487e43610069, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 0f6c088ec0bc75443a730ef4cebb72c2, type: 2}
