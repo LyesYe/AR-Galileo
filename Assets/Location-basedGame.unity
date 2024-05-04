@@ -255,6 +255,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   eye: {fileID: 401633947771183350, guid: cde1620c5bc8d1147b49605a92d90ce9, type: 3}
   player: {fileID: 1065619831072805}
+  csfow: {fileID: 6104486719353441245}
 --- !u!4 &54926001
 Transform:
   m_ObjectHideFlags: 0
