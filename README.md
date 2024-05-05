@@ -38,10 +38,7 @@ AR-Galileo is an innovative Unity application that offers an immersive explorati
 4. Utilize real-time localization to navigate with precision.
 5. Share your exploration journey with friends and family!
 
-## Contributors
 
-- [Your Name]
-- [Additional contributors]
 
 ## License
 
